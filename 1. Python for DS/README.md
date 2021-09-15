@@ -1,15 +1,19 @@
 # Introduction to Python for Data Science
 
+New to programming and don't know where to start? Join our workshop and learn to use Python for your future projects! Learn some Python basics and interpret data using libraries like NumPy, Pandas and Seaborn. Transform data by making it visually interpretive.
+
+**Instructor**: Pratyusha
+
+## How to use
+
 You can access the resources shared in the workshop here. Thank you for joining!
 
-Please run the jupyter notebook files on the demo site if you do not have it:
+You can use Google Colab to open the notebooks here
 
-https://hub.gke2.mybinder.org/user/jupyterlab-jupyterlab-demo-1dd324fd/lab/tree/demo
+- Python for Data Science notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MLDA-NTU/workshops-2021-22/blob/main/1.%20Python%20for%20DS/Python%20for%20Data%20Science.ipynb)
+- Red Wine Analysis notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MLDA-NTU/workshops-2021-22/blob/main/1.%20Python%20for%20DS/Red%20Wine%20Analysis.ipynb)
 
-Please upload the wine csv file along with the rest
-Follow these instructions to run the files
-
-Example:  Red Wine Analysis.ipynb
+For the Red Wine Analysis notebook, you will need to download the dataset file `winequality-red.csv` and upload to Google Colab.
 
 ![jupupload](https://user-images.githubusercontent.com/70022517/131449601-adc965a0-6a3d-443f-bd97-88214866c720.PNG)
 ![jupsel](https://user-images.githubusercontent.com/70022517/131449900-2a52f3ad-7a44-4bda-ad37-cfbec9115ae8.PNG)
