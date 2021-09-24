@@ -12,3 +12,4 @@ Index | Workshop title | Instructor | Materials link | Recording
 4 | Object Detection and Image Segmentation with Detectron2 | Kyaw | [link](4.%20Detectron2) | Not available
 5 | Introduction to Deep Learning for Natural Language Processing | Junyi and Ray | [link](5.%20Intro%20to%20NLP) | Not available
 6 | BERT Architecture and Application | Ching Fhen and Tao Chen | [link](6.%20BERT) | Not available
+7 | ROS Workshop 1: Introduction | Andrian Huang | [link](7.%20ROS%20Workshop%201) | Not available
