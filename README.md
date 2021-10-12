@@ -20,6 +20,6 @@ Materials from Deep Learning Week 2021 workshops are also hosted here. See table
 
 Index | Workshop title | Instructor | Materials link | Recording
 ------|----------------|------------|----------------|----------
-DLW01 | Edge ML: From Cloud to Your Fingertips | Philip and Yong Hao | [link](DLW01.%20Edge%20ML) | Not available
+DLW01 | Edge ML: From Cloud to Your Fingertips | Philip and Yong Hao | [link](DLW01.%20Edge%20ML) | [YouTube](https://www.youtube.com/watch?v=4-dap834HGg)
 DLW02 | Introduction to MatLab: A new Solution to Deep Learning | Shulin and Stanley | [link](DLW02.%20Matlab) | Not available
 DLW03 | Tensorflow for Mobile/IoT devices | Ray and Junyi | [link](DLW03.%20TF%20Mobile) | Not available
