@@ -8,4 +8,4 @@ Have your machine learning models trained but got bored of it running only on yo
 
 This workshop is part of the Deep Learning Week series. Aims to introduce machine learning at the edge and consists of some hands on sessions.
 
-**Note:** For the zip file, extract and paste into your `PlatformIO/Projects` folder and you will be able run it.
+**Note:** For the zip file, just take it as a reference, only the codes in `src` and `scripts` are important
