@@ -4,6 +4,16 @@
 ## Intro to MATLAB
 <br>
 
+<p>MATLAB is a programming platform designed specifically for engineers and scientists. The heart of MATLAB is the MATLAB language, which is a matrix-based language allowing the most natural expression of computational mathematics.<p>
+
+<p>MATLAB takes your ideas from research to production.<p>
+ 
+1st part covers:
+**<p>1. Working environment introduction<p>**
+ **<p>2. Basic Syntax<p>**
+**<p>3. Random Walk (RW) Problem<p>**
+**<p>4. Monte-Carlo Simulation with Blackjack<p>**
+
 ~Shulin
 <hr>
 
