@@ -33,4 +33,4 @@ DLW_03 | Tensorflow for Mobile/IoT devices | Ray and Junyi | [link](DLW_03_TF_Mo
 Index | Workshop title | Instructor | Materials link | Recording
 ------|----------------|------------|----------------|----------
 S2_01 | Introduction to Adversarial Attack on Machine learning model | Huiwen | [link](S2_01_Intro_Ad_Attack_on_ML) | Not available
-S2_02 | I GAN't believe it's fake data | Dewi and Van | [link]() | Not available
+S2_02 | I GAN't believe it's fake data | Dewi and Van | [link](S2_02_GANs) | Not available
