@@ -34,3 +34,4 @@ Index | Workshop title | Instructor | Materials link | Recording
 ------|----------------|------------|----------------|----------
 S2_01 | Introduction to Adversarial Attack on Machine learning model | Huiwen | [link](S2_01_Intro_Ad_Attack_on_ML) | Not available
 S2_02 | I GAN't believe it's fake data | Dewi and Van | [link](S2_02_GANs) | Not available
+S2_03 | Spiking Neural Networks - A path towards brain-inspired computing |Cong Sheng and Ho Chi | [link](S2_03_SNNs) | [YouTube](https://www.youtube.com/watch?v=Wc_0gLcnExo)
