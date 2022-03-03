@@ -13,7 +13,7 @@ S1_02 | Introduction to Machine Learning and Data Science | Anusha and Neville |
 S1_03 | Introduction to Deep Learning for Computer Vision | Cheng Hui and Huy | [link](S1_03_Intro_to_CV) | Not available
 S1_04 | Object Detection and Image Segmentation with Detectron2 | Kyaw | [link](S1_04_Detectron2) | Not available
 S1_05 | Introduction to Deep Learning for Natural Language Processing | Junyi and Ray | [link](S1_05_Intro_to_NLP) | Not available
-S1_06 | BERT Architecture and Application | Ching Fhen and Tao Chen | [link](S1_06_BERT) | Not available
+S1_06 | BERT Architecture and Application | Ching Fhen and Tao Chen | [link](S1_06_BERT) | [YouTube](https://youtu.be/KVjoZSlQoDI)
 S1_07 | ROS Workshop 1: Introduction | Andrian Huang | [link](S1_07_ROS_Workshop_01) | [YouTube](https://youtu.be/c8hctu196mI)
 S1_08 | ROS Workshop 2: Application | Kent | | [YouTube](https://www.youtube.com/watch?v=FCLR_dICyRI)
 S1_09 | ROS Workshop 3: Object detection with YOLO | Nelson | | [YouTube](https://www.youtube.com/watch?v=RvQ2g8rb6aw)
