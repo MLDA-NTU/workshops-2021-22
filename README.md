@@ -11,7 +11,7 @@ Index | Workshop title | Instructor | Materials link | Recording
 S1_01 | Introduction to Python for Data Science | Pratyusha | [link](S1_01_Python_for_DS) | Not available
 S1_02 | Introduction to Machine Learning and Data Science | Anusha and Neville | [link](S1_02_Intro_to_ML_and_DS) | Not available
 S1_03 | Introduction to Deep Learning for Computer Vision | Cheng Hui and Huy | [link](S1_03_Intro_to_CV) | Not available
-S1_04 | Object Detection and Image Segmentation with Detectron2 | Kyaw | [link](S1_04_Detectron2) | Not available
+S1_04 | Object Detection and Image Segmentation with Detectron2 | Kyaw | [link](S1_04_Detectron2) | [YouTube](https://youtu.be/LSKZwv71E2k)
 S1_05 | Introduction to Deep Learning for Natural Language Processing | Junyi and Ray | [link](S1_05_Intro_to_NLP) | Not available
 S1_06 | BERT Architecture and Application | Ching Fhen and Tao Chen | [link](S1_06_BERT) | [YouTube](https://youtu.be/KVjoZSlQoDI)
 S1_07 | ROS Workshop 1: Introduction | Andrian Huang | [link](S1_07_ROS_Workshop_01) | [YouTube](https://youtu.be/c8hctu196mI)
@@ -32,6 +32,7 @@ DLW_03 | Tensorflow for Mobile/IoT devices | Ray and Junyi | [link](DLW_03_TF_Mo
 
 Index | Workshop title | Instructor | Materials link | Recording
 ------|----------------|------------|----------------|----------
-S2_01 | Introduction to Adversarial Attack on Machine learning model | Huiwen | [link](S2_01_Intro_Ad_Attack_on_ML) | Not available
+S2_01 | Introduction to Adversarial Attack on Machine learning model | Huiwen | [link](S2_01_Intro_Ad_Attack_on_ML) | [YouTube](https://youtu.be/zk-E2NKFjk4)
 S2_02 | I GAN't believe it's fake data | Dewi and Van | [link](S2_02_GANs) | Not available
-S2_03 | Spiking Neural Networks - A path towards brain-inspired computing |Cong Sheng and Ho Chi | [link](S2_03_SNNs) | [YouTube](https://www.youtube.com/watch?v=Wc_0gLcnExo)
+S2_03 | Spiking Neural Networks - A path towards brain-inspired computing | Cong Sheng and Ho Chi | [link](S2_03_SNNs) | [YouTube](https://www.youtube.com/watch?v=Wc_0gLcnExo)
+S2_04 | Introduction to Reinforcement Learning | Hoang and Dolph | [link](S2_04_Intro_RL) | Not available
