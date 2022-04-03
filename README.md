@@ -36,3 +36,4 @@ S2_01 | Introduction to Adversarial Attack on Machine learning model | Huiwen | 
 S2_02 | I GAN't believe it's fake data | Dewi and Van | [link](S2_02_GANs) | Not available
 S2_03 | Spiking Neural Networks - A path towards brain-inspired computing | Cong Sheng and Ho Chi | [link](S2_03_SNNs) | [YouTube](https://www.youtube.com/watch?v=Wc_0gLcnExo)
 S2_04 | Introduction to Reinforcement Learning | Hoang and Dolph | [link](S2_04_Intro_RL) | Not available
+S2_05 | Novel visualisation methods for data analytics and machine learning | Hui Xiang and Ho Chi | [link](S2_05_Visualisation) | Not available
